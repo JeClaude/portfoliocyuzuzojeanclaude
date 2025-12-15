@@ -48,7 +48,7 @@ const Navbar = () => {
               </a>
             ))}
             <Button variant="default" size="sm" asChild>
-              <a href="/resume.pdf" download>
+              <a href="https://drive.google.com/file/d/1cUTZRmnXFlf44PNmJXk0TelqSr63x7cV/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                 Resume
               </a>
             </Button>
@@ -78,7 +78,7 @@ const Navbar = () => {
                 </a>
               ))}
               <Button variant="default" size="sm" asChild className="w-fit">
-                <a href="/resume.pdf" download>
+                <a href="https://drive.google.com/file/d/1cUTZRmnXFlf44PNmJXk0TelqSr63x7cV/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                   Resume
                 </a>
               </Button>
