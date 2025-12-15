@@ -13,13 +13,6 @@ const Hero = () => {
       
       <div className="container relative z-10 px-4 sm:px-6">
         <div className="max-w-4xl mx-auto text-center">
-          {/* Code-style greeting */}
-          <div className="animate-fade-in mb-6">
-            <span className="inline-block px-4 py-2 rounded-full bg-secondary/50 border border-border text-sm font-mono text-muted-foreground">
-              <span className="text-primary">const</span> developer = <span className="text-primary">"available"</span>;
-            </span>
-          </div>
-          
           {/* Main heading */}
           <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold mb-6 animate-slide-up" style={{ animationDelay: '0.1s' }}>
             Hi, I'm <span className="text-gradient">Cyuzuzo Jean Claude</span>
