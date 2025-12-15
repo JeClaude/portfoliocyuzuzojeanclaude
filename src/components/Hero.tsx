@@ -22,7 +22,7 @@ const Hero = () => {
           
           {/* Main heading */}
           <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold mb-6 animate-slide-up" style={{ animationDelay: '0.1s' }}>
-            Hi, I'm <span className="text-gradient">Alex Chen</span>
+            Hi, I'm <span className="text-gradient">Cyuzuzo Jean Claude</span>
           </h1>
           
           {/* Subtitle */}
