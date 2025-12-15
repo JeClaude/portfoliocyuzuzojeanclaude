@@ -11,7 +11,7 @@ const Footer = () => {
             {/* Logo */}
             <a href="#" className="text-xl font-bold font-mono">
               <span className="text-primary">{"<"}</span>
-              AC
+              CJC
               <span className="text-primary">{" />"}</span>
             </a>
 
@@ -51,7 +51,7 @@ const Footer = () => {
 
             {/* Copyright */}
             <p className="text-sm text-muted-foreground font-mono">
-              © {currentYear} Alex Chen. All rights reserved.
+              © {currentYear} Cyuzuzo Jean Claude. All rights reserved.
             </p>
           </div>
         </div>

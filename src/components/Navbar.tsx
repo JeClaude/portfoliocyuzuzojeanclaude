@@ -32,7 +32,7 @@ const Navbar = () => {
           {/* Logo */}
           <a href="#" className="text-xl font-bold font-mono">
             <span className="text-primary">{"<"}</span>
-            AC
+            CJC
             <span className="text-primary">{" />"}</span>
           </a>
 
