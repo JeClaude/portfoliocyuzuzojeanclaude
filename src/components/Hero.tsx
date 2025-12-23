@@ -41,7 +41,7 @@ const Hero = () => {
           
           {/* Social links */}
           <div className="flex gap-4 justify-center animate-slide-up" style={{ animationDelay: '0.5s' }}>
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="p-3 rounded-full bg-secondary/50 border border-border hover:border-primary hover:text-primary transition-all duration-300">
+            <a href="https://github.com/JeClaude" target="_blank" rel="noopener noreferrer" className="p-3 rounded-full bg-secondary/50 border border-border hover:border-primary hover:text-primary transition-all duration-300">
               <Github className="w-5 h-5" />
             </a>
             <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="p-3 rounded-full bg-secondary/50 border border-border hover:border-primary hover:text-primary transition-all duration-300">

@@ -136,7 +136,7 @@ const Projects = () => {
           {/* View more */}
           <div className="text-center mt-12">
             <Button variant="outline" size="lg" asChild>
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/JeClaude" target="_blank" rel="noopener noreferrer">
                 <Github className="w-5 h-5 mr-2" />
                 View More on GitHub
               </a>
