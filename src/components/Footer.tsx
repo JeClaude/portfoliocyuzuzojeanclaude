@@ -18,7 +18,7 @@ const Footer = () => {
             {/* Social links */}
             <div className="flex gap-4">
               <a
-                href="https://github.com"
+                href="https://github.com/JeClaude"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 text-muted-foreground hover:text-primary transition-colors"
@@ -26,7 +26,7 @@ const Footer = () => {
                 <Github className="w-5 h-5" />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://linkedin.com/in/cyuzuzo-jean-claude-517144252/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 text-muted-foreground hover:text-primary transition-colors"
