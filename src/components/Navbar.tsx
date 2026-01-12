@@ -29,12 +29,8 @@ const Navbar = () => {
     >
       <div className="container px-4 sm:px-6">
         <div className="flex items-center justify-between h-16">
-          {/* Logo */}
-          <a href="#" className="text-xl font-bold font-mono">
-            <span className="text-primary">{"<"}</span>
-            CJC
-            <span className="text-primary">{" />"}</span>
-          </a>
+          {/* Spacer for layout */}
+          <div className="w-10" />
 
           {/* Desktop navigation */}
           <div className="hidden md:flex items-center gap-8">

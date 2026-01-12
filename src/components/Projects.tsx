@@ -1,4 +1,4 @@
-import { ExternalLink, Github, BarChart3, Code2, Database } from "lucide-react";
+import { Github, BarChart3, Code2, Database } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const Projects = () => {
@@ -114,21 +114,6 @@ const Projects = () => {
                   </div>
                 </div>
 
-                {/* Links */}
-                <div className="p-6 pt-4 border-t border-border flex gap-3">
-                  <Button variant="ghost" size="sm" asChild className="flex-1">
-                    <a href={project.github} target="_blank" rel="noopener noreferrer">
-                      <Github className="w-4 h-4 mr-2" />
-                      Code
-                    </a>
-                  </Button>
-                  <Button variant="ghost" size="sm" asChild className="flex-1">
-                    <a href={project.live} target="_blank" rel="noopener noreferrer">
-                      <ExternalLink className="w-4 h-4 mr-2" />
-                      Live
-                    </a>
-                  </Button>
-                </div>
               </article>
             ))}
           </div>
