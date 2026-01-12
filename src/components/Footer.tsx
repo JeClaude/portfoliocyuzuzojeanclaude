@@ -7,13 +7,7 @@ const Footer = () => {
     <footer className="py-12 border-t border-border">
       <div className="container px-4 sm:px-6">
         <div className="max-w-6xl mx-auto">
-          <div className="flex flex-col md:flex-row items-center justify-between gap-6">
-            {/* Logo */}
-            <a href="#" className="text-xl font-bold font-mono">
-              <span className="text-primary">{"<"}</span>
-              CJC
-              <span className="text-primary">{" />"}</span>
-            </a>
+          <div className="flex flex-col md:flex-row items-center justify-center gap-6">
 
             {/* Social links */}
             <div className="flex gap-4">
